@@ -1,8 +1,3 @@
-//Nikashan Thavaruban
-//Nov. 5, 2019
-//Inventory_Main.java
-//Inventory program that can create and allow users to modify inventory lists
-
 import java.util.*;
 import java.io.*;
 import java.security.NoSuchAlgorithmException;
